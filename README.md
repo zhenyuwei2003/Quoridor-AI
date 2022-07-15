@@ -40,7 +40,7 @@ py judge.py "human/AI name 1" "human/AI name 2"
 
 *（注：运行评测程序需要本地安装 `python` 的 `numpy` 库）*
 
-### 示例：
+### 示例
 
 - 两种不同算法AI对战 `py judge.py "Yosoro! [minimax].exe" "Yosoro! [MCTS].exe"`
 - 人人对战 `py judge.py human human`
